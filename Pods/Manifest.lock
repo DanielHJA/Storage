@@ -1,0 +1,17 @@
+PODS:
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - IQKeyboardManager (4.0.7)
+
+DEPENDENCIES:
+  - ChameleonFramework/Swift
+  - IQKeyboardManager
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  IQKeyboardManager: 69002bb4fea60596b710e57d426abc00e5063630
+
+PODFILE CHECKSUM: d080f188e74f8d0a430c87557598caeda9af6ed7
+
+COCOAPODS: 1.0.1
